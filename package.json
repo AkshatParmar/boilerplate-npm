@@ -1,5 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"description": "FreeCodeCamp Course Challenges",
 	"author":"Akshat Parmar",
 	"dependencies": {
 		"express": "^4.14.0"
