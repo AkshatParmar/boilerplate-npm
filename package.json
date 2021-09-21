@@ -2,6 +2,8 @@
 	"name": "fcc-learn-npm-package-json",
 	"description": "FreeCodeCamp Course Challenges",
 	"keywords": ["nodejs","freecodecamp","certification"],
+	"license": "MIT",
+	"version": "1.0.0",
 	"author":"Akshat Parmar",
 	"dependencies": {
 		"express": "^4.14.0"
